@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9df24b0-ebb2-4015-9985-42befcf7d9b8" name="Changes" comment="">
+    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/SkillCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/SkillCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,14 +16,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="579ac579-d7d7-4bb5-90fc-946b0e073ba3" />
+        <option name="url" value="https://github.com/G-campos/myskills.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/App.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22LQJ1K97yZb5WuWUzXfQdSz22I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="22hGi6Qpx8NaQYRZQjJKjJNVrY4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,31 +46,66 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/eucabus" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="emulator" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.android">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.android" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9df24b0-ebb2-4015-9985-42befcf7d9b8" name="Changes" comment="" />
-      <created>1639614312491</created>
+      <changelist id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="" />
+      <created>1640282529696</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639614312491</updated>
-      <workItem from="1639614314938" duration="14000" />
+      <updated>1640282529696</updated>
+      <workItem from="1640282531130" duration="2685000" />
+      <workItem from="1640881415018" duration="2673000" />
+      <workItem from="1640889134714" duration="1012000" />
+      <workItem from="1640891354075" duration="1891000" />
+      <workItem from="1640893412117" duration="703000" />
+      <workItem from="1641211476838" duration="278000" />
+      <workItem from="1641224477679" duration="1659000" />
+      <workItem from="1641226169408" duration="630000" />
+      <workItem from="1641231348004" duration="490000" />
+      <workItem from="1641233564127" duration="3570000" />
+      <workItem from="1641299940962" duration="16000" />
+      <workItem from="1641408169797" duration="4495000" />
+      <workItem from="1641470314852" duration="18000" />
+      <workItem from="1641471741996" duration="1245000" />
+      <workItem from="1641931364955" duration="1754000" />
     </task>
-    <task id="LOCAL-00001" summary="projeto convertido para estrutura com expo">
-      <created>1640117662056</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1640117662056</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,10 +121,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="projeto convertido para estrutura com expo" />
-    <option name="LAST_COMMIT_MESSAGE" value="projeto convertido para estrutura com expo" />
   </component>
 </project>
