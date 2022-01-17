@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="Implementação de listagem por FlatList">
+    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="Mudando de pasta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/SkillCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SkillCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +116,7 @@
       <workItem from="1642077488844" duration="690000" />
       <workItem from="1642446790627" duration="7000" />
       <workItem from="1642446842277" duration="1782000" />
+      <workItem from="1642452019995" duration="1573000" />
     </task>
     <task id="LOCAL-00001" summary="Implementação de listagem por FlatList">
       <created>1641934832827</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641934832827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mudando de pasta">
+      <created>1642452290862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642452290862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implementação de listagem por FlatList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação de listagem por FlatList" />
+    <MESSAGE value="Mudando de pasta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudando de pasta" />
   </component>
 </project>
