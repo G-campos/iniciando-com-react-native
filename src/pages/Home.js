@@ -8,8 +8,8 @@ import {
   FlatList
 } from 'react-native';
 
-import {Button} from './components/Button';
-import {SkillCard} from "./components/SkillCard";
+import {Button} from '../components/Button';
+import {SkillCard} from "../components/SkillCard";
 
 export function Home() {
   const [newSkill, setNewSkill] = useState('');

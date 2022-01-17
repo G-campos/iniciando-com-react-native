@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="">
+    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="Implementação de listagem por FlatList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/components/SkillCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/components/SkillCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/SkillCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SkillCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -46,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/eucabus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Eulabs/front-parceiros/src/boot/axios.js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -54,6 +57,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.android">
     <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -104,8 +112,21 @@
       <workItem from="1641408169797" duration="4495000" />
       <workItem from="1641470314852" duration="18000" />
       <workItem from="1641471741996" duration="1245000" />
-      <workItem from="1641931364955" duration="1754000" />
+      <workItem from="1641931364955" duration="3077000" />
+      <workItem from="1641989754565" duration="606000" />
+      <workItem from="1642024286763" duration="1435000" />
+      <workItem from="1642077488844" duration="690000" />
+      <workItem from="1642446790627" duration="7000" />
+      <workItem from="1642446842277" duration="1782000" />
     </task>
+    <task id="LOCAL-00001" summary="Implementação de listagem por FlatList">
+      <created>1641934832827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641934832827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +142,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementação de listagem por FlatList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação de listagem por FlatList" />
   </component>
 </project>
