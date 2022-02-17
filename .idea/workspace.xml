@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9df24b0-ebb2-4015-9985-42befcf7d9b8" name="Changes" comment="">
+    <list default="true" id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="Refatoração de js para ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SkillCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SkillCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,14 +15,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="579ac579-d7d7-4bb5-90fc-946b0e073ba3" />
+        <option name="url" value="https://github.com/G-campos/myskills.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/pages/Home.tsx" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22LQJ1K97yZb5WuWUzXfQdSz22I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="22hGi6Qpx8NaQYRZQjJKjJNVrY4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,31 +48,124 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Eulabs/front-parceiros/src/boot/axios.js" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="emulator" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.android">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.android" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9df24b0-ebb2-4015-9985-42befcf7d9b8" name="Changes" comment="" />
-      <created>1639614312491</created>
+      <changelist id="cc87d2eb-2632-4977-a72a-878bce557cec" name="Changes" comment="" />
+      <created>1640282529696</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639614312491</updated>
-      <workItem from="1639614314938" duration="14000" />
+      <updated>1640282529696</updated>
+      <workItem from="1640282531130" duration="2685000" />
+      <workItem from="1640881415018" duration="2673000" />
+      <workItem from="1640889134714" duration="1012000" />
+      <workItem from="1640891354075" duration="1891000" />
+      <workItem from="1640893412117" duration="703000" />
+      <workItem from="1641211476838" duration="278000" />
+      <workItem from="1641224477679" duration="1659000" />
+      <workItem from="1641226169408" duration="630000" />
+      <workItem from="1641231348004" duration="490000" />
+      <workItem from="1641233564127" duration="3570000" />
+      <workItem from="1641299940962" duration="16000" />
+      <workItem from="1641408169797" duration="4495000" />
+      <workItem from="1641470314852" duration="18000" />
+      <workItem from="1641471741996" duration="1245000" />
+      <workItem from="1641931364955" duration="3077000" />
+      <workItem from="1641989754565" duration="606000" />
+      <workItem from="1642024286763" duration="1435000" />
+      <workItem from="1642077488844" duration="690000" />
+      <workItem from="1642446790627" duration="7000" />
+      <workItem from="1642446842277" duration="1782000" />
+      <workItem from="1642452019995" duration="6018000" />
+      <workItem from="1642463968102" duration="2191000" />
+      <workItem from="1642506773344" duration="604000" />
+      <workItem from="1642516489304" duration="9129000" />
     </task>
-    <task id="LOCAL-00001" summary="projeto convertido para estrutura com expo">
-      <created>1640117662056</created>
+    <task id="LOCAL-00001" summary="Implementação de listagem por FlatList">
+      <created>1641934832827</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1640117662056</updated>
+      <updated>1641934832827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mudando de pasta">
+      <created>1642452290862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642452290862</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Conhecendo o useEffect">
+      <created>1642453798503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642453798503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adicionado StatusBar ao app">
+      <created>1642454159686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642454159686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add tipagens ao projeto">
+      <created>1642455936739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642455936739</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refatoração de js para ts">
+      <created>1642464638831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642464638831</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,10 +181,14 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="projeto convertido para estrutura com expo" />
-    <option name="LAST_COMMIT_MESSAGE" value="projeto convertido para estrutura com expo" />
+    <MESSAGE value="Implementação de listagem por FlatList" />
+    <MESSAGE value="Mudando de pasta" />
+    <MESSAGE value="Conhecendo o useEffect" />
+    <MESSAGE value="Adicionado StatusBar ao app" />
+    <MESSAGE value="Add tipagens ao projeto" />
+    <MESSAGE value="Refatoração de js para ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração de js para ts" />
   </component>
 </project>
